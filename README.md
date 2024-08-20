@@ -12,8 +12,8 @@
   <a href="mailto:pedrolucas.rt@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/SeuUsuario">
-    <img src="https://img.shields.io/github/followers/SeuUsuario?style=for-the-badge&logo=github" alt="GitHub Followers">
+  <a href="https://github.com/pedroynk">
+    <img src="https://img.shields.io/github/followers/pedroynk?style=for-the-badge&logo=github" alt="GitHub Followers">
   </a>
 </p>
 
@@ -43,10 +43,3 @@ Meu compromisso com a excelência me leva a participar ativamente de projetos pr
 </p>
 
 <h2 align="center">Vamos nos conectar? 🤝</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200px" alt="Handshake GIF">
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SeuUsuario.SeuUsuario" alt="Visitors">
-</p>
