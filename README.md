@@ -42,37 +42,3 @@ Meu compromisso com a excelência me leva a participar ativamente de projetos pr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroynk&layout=compact&theme=radical" alt="Top Langs">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="300px" alt="Futebol GIF">
-</p>
-
-<h2 align="center">Escolha seu time!</h2>
-<p align="center">
-  <a href="#gol-time-a"><img src="https://img.shields.io/badge/-Time%20A-blue?style=for-the-badge&logo=football&logoColor=white"></a>
-  <a href="#gol-time-b"><img src="https://img.shields.io/badge/-Time%20B-green?style=for-the-badge&logo=football&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LxF75RCWszTSolAcXr/giphy.gif" width="400px" alt="Jogador GIF">
-</p>
-
-<h2 align="center" id="gol-time-a">Goooooooooool do Time A! 🎉</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="300px" alt="Gol GIF">
-</p>
-
-<h2 align="center" id="gol-time-b">Goooooooooool do Time B! 🎉</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LxF75RCWszTSolAcXr/giphy.gif" width="300px" alt="Gol GIF">
-</p>
-
-<h2 align="center">Fim de Jogo!</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/TlK63EQYLT58U/giphy.gif" width="300px" alt="Fim de Jogo GIF">
-</p>
-
-<p align="center">
-  <a href="#escolha-seu-time"><img src="https://img.shields.io/badge/-Jogar%20novamente-yellow?style=for-the-badge&logo=football&logoColor=white"></a>
-</p>
