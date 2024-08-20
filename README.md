@@ -41,5 +41,3 @@ Meu compromisso com a excelência me leva a participar ativamente de projetos pr
   <img src="https://github-readme-stats.vercel.app/api?username=pedroynk&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroynk&layout=compact&theme=radical" alt="Top Langs">
 </p>
-
-<h2 align="center">Vamos nos conectar? 🤝</h2>
