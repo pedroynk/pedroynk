@@ -23,8 +23,8 @@
 
 <h2 align="center">Sobre Mim 🚀</h2>
 <p align="center">
-Sou Pedro Lucas, um dedicado estudante de Engenharia de Software com uma forte paixão por resolver problemas complexos e uma constante busca por atualização nas tendências da indústria tecnológica. Atualmente, atuo como Analista de Dados, mas meu foco é me tornar um desenvolvedor de software altamente qualificado.
-Meu compromisso com a excelência me leva a participar ativamente de projetos práticos que aprimoram minhas habilidades e ampliam minha experiência. Estou sempre em busca de conhecimento, seja através de cursos especializados ou projetos pessoais, para me destacar no dinâmico e competitivo mundo da tecnologia.
+Meu nome é Pedro Lucas, sou estudante de Engenharia de Software, com grande paixão por resolver problemas complexos e uma busca constante por atualizações sobre as tendências do setor de tecnologia. Atualmente trabalho como analista de dados, mas meu objetivo é me tornar um desenvolvedor de software altamente qualificado.
+Meu compromisso com a excelência e aprendizado contínuo me leva a participar ativamente de projetos práticos que melhoram minhas habilidades e ampliam minha experiência. Estou sempre em busca de conhecimento, tanto através de cursos especializados quanto de projetos pessoais, para me destacar no mundo da tecnologia.
 </p>
 
 <h2 align="center">Linguagens e Ferramentas 🛠️</h2>
