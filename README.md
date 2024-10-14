@@ -23,8 +23,9 @@
 
 <h2 align="center">Sobre Mim 🚀</h2>
 <p align="center">
-Meu nome é Pedro Lucas, sou estudante de Engenharia de Software, com grande paixão por resolver problemas complexos e uma busca constante por atualizações sobre as tendências do setor de tecnologia. Atualmente trabalho como analista de dados, mas meu objetivo é me tornar um desenvolvedor de software altamente qualificado.
-Meu compromisso com a excelência e aprendizado contínuo me leva a participar ativamente de projetos práticos que melhoram minhas habilidades e ampliam minha experiência. Estou sempre em busca de conhecimento, tanto através de cursos especializados quanto de projetos pessoais, para me destacar no mundo da tecnologia.
+Meu nome é Pedro Lucas, sou estudante de Engenharia de Software, com grande paixão e interesse por tecnologia e suas novas tendências. Atualmente, trabalho como analista de dados, mas meu objetivo é me tornar um desenvolvedor de software altamente qualificado.
+
+Minha busca pela excelência e, principalmente, aprendizado contínuo me leva a participar ativamente de projetos práticos, aprimorando minhas habilidades e expandindo minha experiência profissional. Estou sempre em busca de conhecimento, tanto através de cursos especializados quanto de projetos pessoais, para me destacar no mundo da tecnologia.
 </p>
 
 <h2 align="center">Linguagens e Ferramentas 🛠️</h2>
@@ -34,6 +35,7 @@ Meu compromisso com a excelência e aprendizado contínuo me leva a participar a
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Spring-67CB57?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 </p>
 
 <h2 align="center">Estatísticas do GitHub 📊</h2>
