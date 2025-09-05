@@ -1,5 +1,5 @@
 <h2 align="left">Olá, eu sou o Pedro Lucas! 👋</h2>
-<h3 align="left">🚀 Desenvolvedor Full-Stack |Python • Java • Spring • TypeScript • FastAPI • React | APIs • Microservices</h3>
+<h3 align="left">🚀 Desenvolvedor Full-Stack | Java • Spring • Python • TypeScript • FastAPI • React | APIs • Microservices</h3>
 
 Sou desenvolvedor Full-Stack com foco em soluções escaláveis utilizando Python, Java e TypeScript.  
 Atuo na migração de sistemas legados, construção de pipelines de dados e desenvolvimento de APIs robustas, aplicando boas práticas de engenharia de software e arquiteturas modernas para entregar soluções eficientes e de alto impacto.
