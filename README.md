@@ -19,6 +19,9 @@ Sou desenvolvedor Full-Stack com foco em soluções escaláveis utilizando Pytho
 ###
 
 <div align="center">
+  <a href="https://wa.me/5561992847748">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
   <a href="https://www.linkedin.com/in/pedro-lucas-rodrigues-7880bb20a/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
