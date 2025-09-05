@@ -33,12 +33,6 @@ Sou desenvolvedor Full-Stack com foco em soluções escaláveis utilizando Pytho
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroynk&show_icons=true&theme=radical" alt="Pedro Lucas GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroynk&layout=compact&theme=radical" alt="Top Langs">
-</div>
-
-
 ###
 
 <br clear="both">
