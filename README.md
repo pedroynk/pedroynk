@@ -3,6 +3,13 @@
 
 Sou desenvolvedor Full-Stack com foco em soluções escaláveis utilizando Python, Java e TypeScript.  
 Atuo na migração de sistemas legados, construção de pipelines de dados e desenvolvimento de APIs robustas, aplicando boas práticas de engenharia de software e arquiteturas modernas para entregar soluções eficientes e de alto impacto.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</div>
 
 ---
 
