@@ -1,6 +1,5 @@
 <h2 align="left">Olá, eu sou o Pedro Lucas! 👋</h2>
-Sou Desenvolvedor Full-Stack com experiência em Python, Java e TypeScript, especializado em FastAPI e React. Atuo no desenvolvimento de APIs, pipelines de dados e interfaces modernas e intuitivas.
-Tenho experiência na migração de sistemas legados, integração de APIs, modelagem de banco de dados e implementação de processos ETL com ferramentas como dbt, Airflow, DLT e Airbyte. Também já liderei projetos acadêmicos e profissionais, coordenando equipes, definindo arquiteturas escaláveis.
+Sou desenvolvedor Full-Stack com foco em soluções escaláveis utilizando Python, Java e TypeScript. Atuo na migração de sistemas legados, construção de pipelines de dados e desenvolvimento de APIs robustas, aplicando boas práticas de engenharia de software e arquiteturas modernas para entregar soluções eficientes e de alto impacto.
 
 ###
 
