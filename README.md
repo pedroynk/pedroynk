@@ -9,7 +9,7 @@ Sou desenvolvedor Full-Stack com foco em soluções escaláveis utilizando Pytho
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/JavaScript-EEAD2D?style=for-the-badge&logo=typescript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -29,10 +29,15 @@ Sou desenvolvedor Full-Stack com foco em soluções escaláveis utilizando Pytho
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/pedroynk">
-    <img src="https://img.shields.io/github/followers/pedroynk?style=for-the-badge&logo=github" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/pedroynk?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers">
   </a>
-
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroynk&show_icons=true&theme=radical" alt="Pedro Lucas GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroynk&layout=compact&theme=radical" alt="Top Langs">
+</div>
+
 
 ###
 
