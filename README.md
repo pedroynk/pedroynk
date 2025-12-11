@@ -86,6 +86,10 @@ Tenho experiência na **migração de sistemas legados**, reestruturação de ba
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroynk&layout=compact&theme=tokyonight)
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroynk/pedroynk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroynk/pedroynk/output/pacman-contribution-graph.svg">
