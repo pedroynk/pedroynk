@@ -25,6 +25,16 @@ Atuo na migração de sistemas legados, construção de pipelines de dados e des
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </div>
 
+
+📊 Data Engineering & Pipelines
+<div align="left"> 
+  <img src="https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white" alt="Airbyte"> 
+  <img src="https://img.shields.io/badge/Apache%20Hop-0092CA?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Hop"> 
+  <img src="https://img.shields.io/badge/dbt-FE4C4C?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"> 
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"> 
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+</div>
+
 ---
 
 ## 🗄️ Banco de Dados
@@ -43,6 +53,7 @@ Atuo na migração de sistemas legados, construção de pipelines de dados e des
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 </div>
 
 ---
