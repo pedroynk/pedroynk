@@ -1,9 +1,10 @@
 <h2 align="left">Olá, eu sou o Pedro Lucas! 👋</h2>
-<h3 align="left">🚀 Desenvolvedor Full-Stack</h3>
-<h4 align="left">Java • Spring • Python • TypeScript • JavaScript • FastAPI • React | APIs • Microservices</h4>
+<h3 align="left">🚀 Engenheiro de Software</h3>
+<h4 align="left">Python • Java • Spring • Node.JS • TypeScript • FastAPI • React • Jest | PostgreSQL • Oracle • SQL Server • MySQL • MongoDB |  AirByte • Apache Hop • DBT • AirFlow • Power BI</h4>
 
-Sou desenvolvedor Full-Stack com foco em soluções escaláveis utilizando Python, Java e TypeScript.  
-Atuo na migração de sistemas legados, construção de pipelines de dados e desenvolvimento de APIs robustas, aplicando boas práticas de engenharia de software e arquiteturas modernas para entregar soluções eficientes e de alto impacto.
+Sou Engenheiro de Software com foco em arquiteturas utilizando Python, Java, TypeScript e React. Trabalho no desenvolvimento de APIs RESTful com FastAPI, Spring Framework e Laravel, atuando desde a modelagem até testes, documentação e otimizações de performance.
+
+Atuo também em Data Engineering, desenvolvendo pipelines ETL/ELT com dbt, Apache Airflow, DLT, Airbyte, Apache Hop e Python, integrando múltiplas fontes de dados, construindo Data Warehouses e implementando modelos analíticos consumidos em Power BI. Tenho experiência na migração de sistemas legados, reestruturação de bancos de dados, criação de fluxos automatizados e implementação de padrões modernos de engenharia, garantindo confiabilidade, observabilidade e escalabilidade nas soluções.
 
 ---
 
