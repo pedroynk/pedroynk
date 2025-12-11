@@ -25,8 +25,9 @@ Atuo na migração de sistemas legados, construção de pipelines de dados e des
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </div>
 
+---
 
-📊 Data Engineering & Pipelines
+## 📊 Data Engineering & Pipelines
 <div align="left"> 
   <img src="https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white" alt="Airbyte"> 
   <img src="https://img.shields.io/badge/Apache%20Hop-0092CA?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Hop"> 
