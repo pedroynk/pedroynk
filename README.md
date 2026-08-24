@@ -24,9 +24,6 @@
   <a href="https://github.com/pedroynk" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://pedroynkdev.vercel.app/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -40,52 +37,52 @@
 
 <br>
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou **Engenheiro de Dados e Software** e fundador do **Orbyva**, atuando na construção de soluções que conectam **dados, software e produto**.
 
 - 🔄 Desenvolvimento de pipelines **ETL/ELT** utilizando **Python, SQL, Airbyte, Apache Airflow, dbt, DLT, Apache Hop e Microsoft Fabric**.
 
-- 🏗️ Experiência com **modelagem de dados, Data Warehouses, Business Intelligence e Analytics**, estruturando dados para consumo analítico e **Power BI**.
+- Experiência com **modelagem de dados, Data Warehouses, Business Intelligence e Analytics**, estruturando dados para consumo analítico e **Power BI**.
 
-- 🔌 Desenvolvimento de integrações com **APIs REST**, conectando sistemas corporativos, plataformas SaaS e ERPs a ambientes analíticos.
+- Desenvolvimento de integrações com **APIs REST**, conectando sistemas corporativos, plataformas SaaS e ERPs a ambientes analíticos.
 
-- 🏢 Experiência com dados provenientes de **SAP B1, SAP S/4HANA, Mega, Sankhya, Linx e TOTVS**.
+- Experiência com dados provenientes de **SAP B1, SAP S/4HANA, Mega, Sankhya, Linx e TOTVS**.
 
-- ⚙️ Desenvolvimento de **sistemas, APIs e aplicações corporativas** utilizando **Java/Spring Boot e Python/FastAPI** no back-end e **React com TypeScript** no front-end.
+- Desenvolvimento de **sistemas, APIs e aplicações corporativas** utilizando **Java/Spring Boot e Python/FastAPI** no back-end e **React com TypeScript** no front-end.
 
-- 🤖 Desenvolvimento de soluções utilizando **Inteligência Artificial e LLMs**, integrando modelos via APIs para automação, análise de informações e geração de insights.
+- Desenvolvimento de soluções utilizando **Inteligência Artificial e LLMs**, integrando modelos via APIs para automação, análise de informações e geração de insights.
 
-- 🧠 Experiência com **Prompt Engineering** e integração de modelos de IA a aplicações e dados corporativos.
+- Experiência com **Prompt Engineering** e integração de modelos de IA a aplicações e dados corporativos.
 
-- ☁️ Atuação com **Microsoft Fabric**, envolvendo ingestão, transformação, modelagem e disponibilização de dados.
+- Atuação com **Microsoft Fabric**, envolvendo ingestão, transformação, modelagem e disponibilização de dados.
 
-- 🧩 Manutenção e modernização de sistemas legados em **PHP/Laravel e .NET/C#**.
+- Manutenção e modernização de sistemas legados em **PHP/Laravel e .NET/C#**.
 
-- 🚀 Otimização de **consultas SQL, pipelines e aplicações**, alcançando ganhos de performance de até **80% em processos críticos**.
+- Otimização de **consultas SQL, pipelines e aplicações**, alcançando ganhos de performance de até **80% em processos críticos**.
 
-- 📐 Participação na definição de **arquiteturas, padrões técnicos, requisitos e modernização de stacks de dados e software**.
+- Participação na definição de **arquiteturas, padrões técnicos, requisitos e modernização de stacks de dados e software**.
 
-- 📝 Estruturação de **documentação técnica** e disseminação de conhecimento entre equipes.
+- Estruturação de **documentação técnica** e disseminação de conhecimento entre equipes.
 
 <br>
 
-## 💼 Experiência
+## Experiência
 
-### 🚀 Orbyva
+### Orbyva
 
 **Founder | Jul/2026 — Atualmente**
 
 Construindo um **Life OS brasileiro** para centralizar diferentes áreas da vida em uma única plataforma.
 
-- 💰 Finanças e orçamento
-- ✅ Hábitos e metas
-- ✈️ Viagens compartilhadas
-- 📍 Lugares
-- 🚗 Veículos
-- 🎬 Cinema
-- 📚 Livros
-- 🎵 Música
+- Finanças e orçamento
+- Hábitos e metas
+- Viagens compartilhadas
+- Lugares
+- Veículos
+- Cinema
+- Livros
+- Música
 
 Atuação de ponta a ponta em:
 
@@ -105,7 +102,7 @@ Atuação de ponta a ponta em:
 
 <br>
 
-### 🏢 iDEA Technology
+### iDEA Technology
 
 **Data & Software Engineer | Jan/2024 — Atualmente**
 
@@ -127,7 +124,7 @@ Atuação no desenvolvimento de soluções voltadas à **integração, transform
 
 <br>
 
-### 💻 Desenvolvedor Full-Stack — Freelancer
+### Desenvolvedor Full-Stack — Freelancer
 
 **Jun/2023 — Jul/2025**
 
@@ -144,9 +141,9 @@ Desenvolvimento e evolução de aplicações web para diferentes segmentos, atua
 
 <br>
 
-## 🛠️ Skills
+## Skills
 
-### ⚙️ Back-end
+### Back-end
 
 <p>
 
@@ -163,7 +160,7 @@ Desenvolvimento e evolução de aplicações web para diferentes segmentos, atua
 
 </p>
 
-### 🎨 Front-end
+### Front-end
 
 <p>
 
@@ -174,7 +171,7 @@ Desenvolvimento e evolução de aplicações web para diferentes segmentos, atua
 
 </p>
 
-### 🧪 Testes
+### Testes
 
 <p>
 
@@ -184,7 +181,7 @@ Desenvolvimento e evolução de aplicações web para diferentes segmentos, atua
 
 </p>
 
-### 📊 Data Engineering & Analytics
+### Data Engineering & Analytics
 
 <p>
 
@@ -199,7 +196,7 @@ Desenvolvimento e evolução de aplicações web para diferentes segmentos, atua
 
 </p>
 
-### 🤖 Inteligência Artificial
+### Inteligência Artificial
 
 <p>
 
@@ -209,7 +206,7 @@ Desenvolvimento e evolução de aplicações web para diferentes segmentos, atua
 
 </p>
 
-### 🗄️ Bancos de Dados
+### Bancos de Dados
 
 <p>
 
@@ -222,7 +219,7 @@ Desenvolvimento e evolução de aplicações web para diferentes segmentos, atua
 
 </p>
 
-### 🔗 APIs, Integrações & ERPs
+### APIs, Integrações & ERPs
 
 <p>
 
@@ -236,7 +233,7 @@ Desenvolvimento e evolução de aplicações web para diferentes segmentos, atua
 
 </p>
 
-### 🚀 DevOps & Ferramentas
+### DevOps & Ferramentas
 
 <p>
 
@@ -247,7 +244,7 @@ Desenvolvimento e evolução de aplicações web para diferentes segmentos, atua
 
 </p>
 
-### 📐 Engenharia de Software
+### Engenharia de Software
 
 <p>
 
@@ -260,7 +257,7 @@ Desenvolvimento e evolução de aplicações web para diferentes segmentos, atua
 
 <br>
 
-## 🎓 Formação
+## Formação
 
 ### Engenharia de Software
 
@@ -269,27 +266,8 @@ Desenvolvimento e evolução de aplicações web para diferentes segmentos, atua
 📍 Brasília, Brasil  
 📅 Julho/2023 — Julho/2027
 
-<br>
 
-## 📜 Certificações
-
-- Windows — Fundamentos para Desenvolvedores
-- Linux — Fundamentos para Desenvolvedores
-- Redes de Computadores — Fundamentos
-- Jest — Testes Unitários
-- Dart — Fundamentos
-
-<br>
-
-## 🌎 Idiomas
-
-- 🇧🇷 **Português:** Nativo
-- 🇺🇸 **Inglês:** Avançado
-- 🇪🇸 **Espanhol:** Básico
-
-<br>
-
-## 📫 Contato
+## Contato
 
 <p align="center">
 
@@ -303,10 +281,6 @@ Desenvolvimento e evolução de aplicações web para diferentes segmentos, atua
 
 <a href="https://wa.me/5561992847748" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://pedroynkdev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
