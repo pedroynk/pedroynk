@@ -41,7 +41,7 @@
 
 Sou **Engenheiro de Dados e Software** e fundador do **Orbyva**, atuando na construção de soluções que conectam **dados, software e produto**.
 
-- 🔄 Desenvolvimento de pipelines **ETL/ELT** utilizando **Python, SQL, Airbyte, Apache Airflow, dbt, DLT, Apache Hop e Microsoft Fabric**.
+- Desenvolvimento de pipelines **ETL/ELT** utilizando **Python, SQL, Airbyte, Apache Airflow, dbt, DLT, Apache Hop e Microsoft Fabric**.
 
 - Experiência com **modelagem de dados, Data Warehouses, Business Intelligence e Analytics**, estruturando dados para consumo analítico e **Power BI**.
 
